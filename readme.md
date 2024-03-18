@@ -15,5 +15,5 @@
 <img src="./imagens-readme/tela_1.png" width="100%">
 
 ## Habilidade Desenvolvidas
-### Neste projetos tive o previlégio de desenvolver novos conceitos como Decorators, Interfaces, Orientação a objetos, consumo de API's, Enums, Serviços, Views, entre outras habilidades de programalçao para solucionar problemas.
+### Neste projetos tive o previlégio de desenvolver novos conceitos como Decorators, Interfaces, Orientação a objetos, consumo de API's, Enums, Serviços, Views, entre outras habilidades de programaçao para solucionar problemas.
 
